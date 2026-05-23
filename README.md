@@ -1,6 +1,6 @@
 # TPM Breakdowns
 
-Published articles from [TPM Breakdowns](https://michigoetz.substack.com) — a newsletter on Technical Program Management, AI adoption for TPM teams, and what it actually takes to build and scale a TPM function.
+Published articles from [TPM Breakdowns](https://michigoetz.substack.com), a newsletter on Technical Program Management, AI adoption for TPM teams, and what it actually takes to build and scale a TPM function.
 
 Written by [Michi Goetz](https://michigoetz.substack.com), Director of Technical Program Management at Celonis.
 
