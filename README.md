@@ -32,7 +32,7 @@ Topics covered: TPM leadership, AI adoption playbooks, program frameworks, org d
 
 ## Related resources
 
-- **TPM Skill and Agent Library** — 30+ skills, agents, and workflows built for TPM teams: [github.com/michigoetz-tpm](https://github.com/michigoetz-tpm)
+- **TPM Skill and Agent Library** — 30+ skills, agents, and workflows built for TPM teams: [github.com/michigoetz](https://github.com/michigoetz)
 - **State of AI for TPMs 2026** — survey of 252 TPM practitioners on AI adoption: [michigoetz.substack.com](https://michigoetz.substack.com)
 - **TPM Ridge Podcast** — co-hosted with Doron Katz, Josh Teter, and James Dayhuff
 

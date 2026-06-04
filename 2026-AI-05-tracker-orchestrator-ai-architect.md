@@ -227,7 +227,7 @@ That's the arc. The question is where you are on it, and whether you're moving.
 
 ![TPM Delivery Agent Workflow](./images/2026-AI-05/delivery-agent-workflow.jpg)
 
-*You can find the TPM Skill library on [GitHub](https://github.com/michigoetz-tpm). Let me know if you want to contribute!*
+*You can find the TPM Skill library on [GitHub](https://github.com/michigoetz). Let me know if you want to contribute!*
 
 *Let's build*  
 *Michi*

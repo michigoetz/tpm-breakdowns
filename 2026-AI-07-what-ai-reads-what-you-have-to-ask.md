@@ -26,7 +26,7 @@ Article 6 showed how the Delivery Agent reads your program data and drafts the s
 
 ## The workflow
 
-`/tpm-power-questions` is a prompt-based workflow that maps your program situation to the highest-leverage questions for cross-functional delivery. It runs in Claude, ChatGPT, Gemini, or any AI assistant you already use. Copy the prompt from github.com/michigoetz-tpm/tpm-use-cases and paste it into your AI tool of choice.
+`/tpm-power-questions` is a prompt-based workflow that maps your program situation to the highest-leverage questions for cross-functional delivery. It runs in Claude, ChatGPT, Gemini, or any AI assistant you already use. Copy the prompt from github.com/michigoetz/tpm-use-cases and paste it into your AI tool of choice.
 
 Most programs do not break because of missing data. They break because nobody asked the right question at the right moment. Describe what is happening (a sentence, a Slack message, or paste in your program status) and it returns the questions that surface what the data cannot say.
 
@@ -116,7 +116,7 @@ The skill closed with this:
 
 The agent read the portfolio. It named two human actions that determine whether everything else is accurate. It could not take those actions. It could only surface where the judgment layer has to act.
 
-The NovaGrid context is public. You can run this yourself at github.com/michigoetz-tpm/tpm-use-cases.
+The NovaGrid context is public. You can run this yourself at github.com/michigoetz/tpm-use-cases.
 
 ---
 

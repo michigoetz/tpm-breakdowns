@@ -142,7 +142,7 @@ What changes between roles is what you do with the finding. A Tomato in a PM's f
 
 Start with zero setup. The NovaGrid sandbox is public. Open the TPM AI Playbook repo, run `/tpm-workflow-fruit-bowl` in portfolio mode, and read the heat map. One command, 15 minutes, all seven programs scored. No data wrangling required.
 
-When you're ready to run it against your own programs: the skill is in the open-source TPM AI Playbook on GitHub (`michigoetz-tpm/tpm-breakdowns`), under `skills/5-execution-delivery/tpm-fruit-bowl/`. Run it in Claude Code, point it at whatever program artifacts you have.
+When you're ready to run it against your own programs: the skill is in the open-source TPM AI Playbook on GitHub (`michigoetz/tpm-breakdowns`), under `skills/5-execution-delivery/tpm-fruit-bowl/`. Run it in Claude Code, point it at whatever program artifacts you have.
 
 The gamified version: run it on a program you recently closed, one where you know what the actual state was. See what the skill would have surfaced three months earlier. In my experience, it confirms things you sensed but couldn't name, and occasionally surfaces something you missed entirely. The Tomato on SPARK was in the second category.
 
@@ -159,7 +159,7 @@ Michi
 
 ---
 
-*The `/tpm-fruit-bowl` skill is part of the TPM AI Playbook. Find the full skill library at `michigoetz-tpm/tpm-breakdowns` on GitHub.*
+*The `/tpm-fruit-bowl` skill is part of the TPM AI Playbook. Find the full skill library at `michigoetz/tpm-breakdowns` on GitHub.*
 
 *Previous in the series: [2026.AI.08: The agent didn't fail. Your data layer did.](./2026-AI-08-all-about-templates-data-layer.md)*
 
