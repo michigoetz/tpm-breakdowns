@@ -24,6 +24,7 @@ Topics covered: TPM leadership, AI adoption playbooks, program frameworks, org d
 | 2026.AI.06 | [The TPM Had a Risk Register. The Workflow Found Four More.](./2026-AI-06-the-tpm-had-a-risk-register.md) | Apr 16, 2026 |
 | 2026.AI.07 | [What AI reads. What you have to ask.](./2026-AI-07-what-ai-reads-what-you-have-to-ask.md) | Apr 23, 2026 |
 | 2026.AI.08 | [The agent didn't fail. Your data layer did.](./2026-AI-08-all-about-templates-data-layer.md) | May 12, 2026 |
+| 2026.AI.09 | [Your program portfolio has fruit hiding in it. Now you can find it in 10 minutes.](./2026-AI-09-fruit-bowl-skill.md) | Jun 3, 2026 |
 
 *More articles coming. Subscribe at [michigoetz.substack.com](https://michigoetz.substack.com) to get them first.*
 
