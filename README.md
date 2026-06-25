@@ -28,6 +28,7 @@ Topics covered: TPM leadership, AI adoption playbooks, program frameworks, org d
 | 2026.AI.10 | [The Agent Coordination Problem No One Has Named Yet](./2026-AI-10-the-agent-coordination-problem.md) | May 27, 2026 |
 | 2026.AI.11 | [32 AI terms every TPM should actually know (Part I)](./2026-AI-11-tpm-ai-glossary-part1.md) | Jun 10, 2026 |
 | 2026.AI.12 | [32 AI terms every TPM should actually know (Part II)](./2026-AI-12-tpm-ai-glossary-part2.md) | Jun 17, 2026 |
+| 2026.AI.13 | [Your live connector is fresh and still wrong](./2026-AI-13-the-gate-before-the-agent.md) | Jun 24, 2026 |
 
 *More articles coming. Subscribe at [michigoetz.substack.com](https://michigoetz.substack.com) to get them first.*
 
