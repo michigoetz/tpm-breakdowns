@@ -34,6 +34,12 @@ Topics covered: TPM leadership, AI adoption playbooks, program frameworks, org d
 
 *More articles coming. Subscribe at [michigoetz.substack.com](https://michigoetz.substack.com) to get them first.*
 
+### The Seat - the craft of the TPM job
+
+| # | Title | Published |
+|---|-------|-----------|
+| The Seat · 01 | [You're allowed to cancel the meeting. And 29 other permissions nobody gives you.](./2026-seat-01-you-are-allowed-30-permissions.md) | Jul 22, 2026 |
+
 ---
 
 ## Related resources
