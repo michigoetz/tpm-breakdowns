@@ -32,6 +32,9 @@ Topics covered: TPM leadership, AI adoption playbooks, program frameworks, org d
 | 2026.AI.14 | [I don't read my portfolio anymore. It reports to me every hour.](./2026-AI-14-the-daily-360.md) | Jul 7, 2026 |
 | 2026.AI.15 | [You are not behind on AI. You are two weeks behind.](./2026-AI-15-the-two-week-ramp.md) | Jul 15, 2026 |
 | 2026.AI.16 | [We asked 252 TPMs, PgMs, PMs, EMs how they use AI. Here's what happened since.](./2026-AI-16-252-tpms-answered.md) | Jul 29, 2026 |
+| 2026.AI.17 | [The Launch Auditor Agent said NO-GO. Here is the meeting that followed.](./2026-AI-17-the-launch-auditor-said-no-go.md) | Aug 12, 2026 |
+| 2026.AI.18 | [You were out three weeks. Twenty-two things changed, five need you today.](./2026-AI-18-coming-back.md) | Sep 9, 2026 |
+| 2026.AI.19 | [AI Slop as program risk: The document was perfect. That's the problem.](./2026-AI-19-the-document-was-perfect.md) | Sep 18, 2026 |
 
 *More articles coming. Subscribe at [michigoetz.substack.com](https://michigoetz.substack.com) to get them first.*
 
@@ -40,6 +43,18 @@ Topics covered: TPM leadership, AI adoption playbooks, program frameworks, org d
 | # | Title | Published |
 |---|-------|-----------|
 | The Seat · 01 | [You're allowed to cancel the meeting. And 29 other permissions nobody gives you.](./2026-seat-01-you-are-allowed-30-permissions.md) | Jul 22, 2026 |
+| The Seat · 02 | [Your vacation is a systems audit. Most initiatives quietly fail it.](./2026-seat-02-vacation-test.md) | Aug 5, 2026 |
+| The Seat · 03 | [Escalation isn't tattling. It's a timer.](./2026-seat-03-escalate-without-burning-bridges.md) | Aug 19, 2026 |
+| The Seat · 04 | [If your tech org ran like Oktoberfest](./2026-seat-04-oktoberfest.md) | Sep 28, 2026 |
+| The Seat · 05 | [Bad news doesn't hurt your credibility. Late news does.](./2026-seat-05-bad-news-up.md) | Oct 19, 2026 |
+| The Seat · 06 | [Seven program monsters that look perfectly reasonable](./2026-seat-06-seven-program-monsters.md) | Oct 28, 2026 |
+
+### Specials
+
+| Title | Published |
+|-------|-----------|
+| [One year of TPM Breakdowns, and the thing I want to build with you next.](./2026-special-one-year-of-tpm-breakdowns.md) | Aug 27, 2026 |
+| [The Technical Program Manager's Guide to Practical AI is out (book launch)](./2026-special-book-launch.md) | Nov 12, 2026 |
 
 ---
 
